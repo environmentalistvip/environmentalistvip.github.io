@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environmentalist VIP</title>
-    <link>https://environmentalist.vip/es/</link>
+    <link>https://www.environmentalist.vip/es/</link>
     <description>Recent content on Environmentalist VIP</description>
     <generator>Hugo - gohugo.io</generator>
     <language>es</language>
     <contact>environmentalist@environmentalist.vip</contact>
     <copyright>&copy; <a href="https://twitter.com/environvip">Environmentalist VIP</a> 2019</copyright>
     
-        <atom:link href="https://environmentalist.vip/es/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.environmentalist.vip/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://environmentalist.vip/es/posts/</link>
+      <link>https://www.environmentalist.vip/es/posts/</link>
       <pubDate>Tue, 17 Dec 2019 04:53:05 +0000</pubDate>
       <author>Environmentalist VIP</author>
-      <guid>https://environmentalist.vip/es/posts/</guid>
+      <guid>https://www.environmentalist.vip/es/posts/</guid>
       <description></description>
       
       <content></content>

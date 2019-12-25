@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Environmentalist VIP</title>
-    <link>https://environmentalist.vip/es/posts/</link>
+    <link>https://www.environmentalist.vip/es/posts/</link>
     <description>Recent content in Posts on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://twitter.com/environvip&#34;&gt;Environmentalist VIP&lt;/a&gt; 2019</copyright>
     <lastBuildDate>Tue, 17 Dec 2019 04:53:05 +0000</lastBuildDate>
     
-	<atom:link href="https://environmentalist.vip/es/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.environmentalist.vip/es/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mi primer blog</title>
-      <link>https://environmentalist.vip/es/posts/mi-primer-blog/</link>
+      <link>https://www.environmentalist.vip/es/posts/mi-primer-blog/</link>
       <pubDate>Tue, 17 Dec 2019 04:53:05 +0000</pubDate>
       
-      <guid>https://environmentalist.vip/es/posts/mi-primer-blog/</guid>
+      <guid>https://www.environmentalist.vip/es/posts/mi-primer-blog/</guid>
       <description>Primer blog small test hello</description>
     </item>
     

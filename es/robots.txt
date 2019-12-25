@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://environmentalist.vip//sitemap.xml
+Sitemap: https://www.environmentalist.vip//sitemap.xml

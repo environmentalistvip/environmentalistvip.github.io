@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://environmentalist.vip/es/</loc>
+    <loc>https://www.environmentalist.vip/es/</loc>
     <lastmod>2019-12-17T04:53:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://environmentalist.vip/"
+                href="https://www.environmentalist.vip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://environmentalist.vip/es/"
+                href="https://www.environmentalist.vip/es/"
                 />
   </url>
   
   <url>
-    <loc>https://environmentalist.vip/es/posts/mi-primer-blog/</loc>
+    <loc>https://www.environmentalist.vip/es/posts/mi-primer-blog/</loc>
     <lastmod>2019-12-17T04:53:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://environmentalist.vip/es/posts/</loc>
+    <loc>https://www.environmentalist.vip/es/posts/</loc>
     <lastmod>2019-12-17T04:53:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://environmentalist.vip/posts/"
+                href="https://www.environmentalist.vip/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://environmentalist.vip/es/posts/"
+                href="https://www.environmentalist.vip/es/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://environmentalist.vip/es/categories/</loc>
+    <loc>https://www.environmentalist.vip/es/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://environmentalist.vip/categories/"
+                href="https://www.environmentalist.vip/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://environmentalist.vip/es/categories/"
+                href="https://www.environmentalist.vip/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://environmentalist.vip/es/tags/</loc>
+    <loc>https://www.environmentalist.vip/es/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://environmentalist.vip/tags/"
+                href="https://www.environmentalist.vip/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://environmentalist.vip/es/tags/"
+                href="https://www.environmentalist.vip/es/tags/"
                 />
   </url>
   
