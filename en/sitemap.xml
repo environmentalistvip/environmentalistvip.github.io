@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.environmentalist.vip/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.environmentalist.vip/posts/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -38,7 +38,7 @@
   
   <url>
     <loc>https://www.environmentalist.vip/authors/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -52,38 +52,18 @@
   </url>
   
   <url>
-    <loc>https://www.environmentalist.vip/categories/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.environmentalist.vip/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.environmentalist.vip/categories/"
-                />
+    <loc>https://www.environmentalist.vip/posts/pinatas/</loc>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.environmentalist.vip/categories/features/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.environmentalist.vip/tags/i18n/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.environmentalist.vip/authors/muniftanjim/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <loc>https://www.environmentalist.vip/tags/pollution/</loc>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.environmentalist.vip/tags/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -97,13 +77,22 @@
   </url>
   
   <url>
-    <loc>https://www.environmentalist.vip/tags/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <loc>https://www.environmentalist.vip/authors/vipenvironmentalist/</loc>
+    <lastmod>2019-12-25T14:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.environmentalist.vip/posts/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <loc>https://www.environmentalist.vip/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.environmentalist.vip/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.environmentalist.vip/categories/"
+                />
   </url>
   
   <url>
