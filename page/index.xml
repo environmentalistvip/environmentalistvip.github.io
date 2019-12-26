@@ -5,18 +5,26 @@
     <link>https://www.environmentalist.vip/page/</link>
     <description>Recent content in Pages on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://twitter.com/environvip&#34;&gt;Environmentalist VIP&lt;/a&gt; 2019</copyright>
     
 	<atom:link href="https://www.environmentalist.vip/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://www.environmentalist.vip/page/about/</link>
+      <title>About</title>
+      <link>https://www.environmentalist.vip/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.environmentalist.vip/page/about/</guid>
+      <guid>https://www.environmentalist.vip/about/</guid>
+      <description>This blog is for you, the silent majority who have no voice. may help you if you check any of the following:
+ You care about the environment, but you are too important to adjust your living standards or the way you go about your life. You want to project an image of a champion for the environment without putting any effort to actually save the environment. You want to be perceived by your friends as a warrior for the environment without actually doing anything.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://www.environmentalist.vip/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.environmentalist.vip/search/</guid>
       <description></description>
     </item>
     

@@ -5,11 +5,19 @@
     <link>https://www.environmentalist.vip/categories/</link>
     <description>Recent content in Categories on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://twitter.com/environvip&#34;&gt;Environmentalist VIP&lt;/a&gt; 2019</copyright>
+    <lastBuildDate>Wed, 27 Sep 2017 14:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://www.environmentalist.vip/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>features</title>
+      <link>https://www.environmentalist.vip/categories/features/</link>
+      <pubDate>Wed, 27 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>https://www.environmentalist.vip/categories/features/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
