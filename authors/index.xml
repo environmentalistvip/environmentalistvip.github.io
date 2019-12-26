@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Environmentalist VIP</title>
-    <link>https://www.environmentalist.vip/authors/</link>
+    <link>https://environmentalist.vip/authors/</link>
     <description>Recent content in Authors on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 25 Dec 2019 14:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://www.environmentalist.vip/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://environmentalist.vip/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>vipenvironmentalist</title>
-      <link>https://www.environmentalist.vip/authors/vipenvironmentalist/</link>
+      <link>https://environmentalist.vip/authors/vipenvironmentalist/</link>
       <pubDate>Wed, 25 Dec 2019 14:00:00 -0800</pubDate>
       
-      <guid>https://www.environmentalist.vip/authors/vipenvironmentalist/</guid>
+      <guid>https://environmentalist.vip/authors/vipenvironmentalist/</guid>
       <description></description>
     </item>
     
