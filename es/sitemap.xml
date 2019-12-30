@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>es.environmentalist.vip/</loc>
+    <loc>environmentalist.vip/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -12,12 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/"
+                href="environmentalist.vip/es/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/acerca/</loc>
+    <loc>environmentalist.vip/es/acerca/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,12 +26,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/acerca/"
+                href="environmentalist.vip/es/acerca/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/authors/</loc>
+    <loc>environmentalist.vip/es/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,12 +40,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/authors/"
+                href="environmentalist.vip/es/authors/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/categories/</loc>
+    <loc>environmentalist.vip/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,12 +54,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/categories/"
+                href="environmentalist.vip/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/page/</loc>
+    <loc>environmentalist.vip/es/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,12 +68,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/page/"
+                href="environmentalist.vip/es/page/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/series/</loc>
+    <loc>environmentalist.vip/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -82,12 +82,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/series/"
+                href="environmentalist.vip/es/series/"
                 />
   </url>
   
   <url>
-    <loc>es.environmentalist.vip/tags/</loc>
+    <loc>environmentalist.vip/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,7 +96,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="es.environmentalist.vip/tags/"
+                href="environmentalist.vip/es/tags/"
                 />
   </url>
   

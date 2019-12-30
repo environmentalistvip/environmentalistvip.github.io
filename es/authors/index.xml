@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Environmentalist VIP</title>
-    <link>es.environmentalist.vip/authors/</link>
+    <link>environmentalist.vip/es/authors/</link>
     <description>Recent content in Authors on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="es.environmentalist.vip/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="environmentalist.vip/es/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

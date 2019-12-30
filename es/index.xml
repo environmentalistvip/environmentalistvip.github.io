@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Environmentalist VIP</title>
-    <link>es.environmentalist.vip/</link>
+    <link>environmentalist.vip/es/</link>
     <description>Recent content in Home on Environmentalist VIP</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="es.environmentalist.vip/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="environmentalist.vip/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acerca</title>
-      <link>es.environmentalist.vip/acerca/</link>
+      <link>environmentalist.vip/es/acerca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>es.environmentalist.vip/acerca/</guid>
+      <guid>environmentalist.vip/es/acerca/</guid>
       <description>test Mínimo is a Spanish word that roughly translate to Minimal.
 Minimo is a minimalist theme for Hugo.
 Minimo keeps the focus on your content and lets it shine!</description>
