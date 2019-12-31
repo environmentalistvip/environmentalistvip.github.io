@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Environmentalist VIP</title>
+    <link>https://environmentalist.vip/es/posts/</link>
+    <description>Recent content in Blog on Environmentalist VIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Dec 2019 14:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://environmentalist.vip/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los viejos no merecen contaminar</title>
+      <link>https://environmentalist.vip/es/posts/viejos-no-merecen-contaminar/</link>
+      <pubDate>Sun, 29 Dec 2019 14:00:00 -0800</pubDate>
+      
+      <guid>https://environmentalist.vip/es/posts/viejos-no-merecen-contaminar/</guid>
+      <description>El otro dia un querido y estimado amigo al cual quiero con todo mi corazón, escribió:
+ Un doctor en Estados Unidos apenas causó un gran debate también al decir que a los 75 la gente ya NO debería recibir subsidios (medicinas, tratamientos, etc, simplemente esperar en sus condiciones muerte natural SIN buscar artificialmente evitarla) pues a dicha edad ya no tienen energía para impactar y se destinan del gobierno usd 7 por cada viejo vs 1 usd por menores de 18 años, los recursos deberían usarse en los jóvenes!</description>
+    </item>
+    
+  </channel>
+</rss>
