@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://environmentalist.vip/es/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +14,81 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://environmentalist.vip/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/posts/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/authors/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/tags/discriminaci%C3%B3n-por-edad/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/tags/justicia-ambiental/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/posts/viejos-no-merecen-contaminar/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/tags/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://environmentalist.vip/es/authors/vipenvironmentalist/</loc>
+    <lastmod>2019-12-29T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/authors/vipenvironmentalist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/authors/vipenvironmentalist/"
                 />
   </url>
   
@@ -27,20 +103,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://environmentalist.vip/es/acerca/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://environmentalist.vip/es/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://environmentalist.vip/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://environmentalist.vip/es/authors/"
                 />
   </url>
   
@@ -83,20 +145,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://environmentalist.vip/es/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://environmentalist.vip/es/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://environmentalist.vip/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://environmentalist.vip/es/tags/"
                 />
   </url>
   

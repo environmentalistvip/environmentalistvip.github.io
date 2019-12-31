@@ -20,6 +20,16 @@
   <url>
     <loc>https://environmentalist.vip/posts/</loc>
     <lastmod>2019-12-25T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/posts/"
+                />
   </url>
   
   <url>
@@ -79,6 +89,16 @@
   <url>
     <loc>https://environmentalist.vip/authors/vipenvironmentalist/</loc>
     <lastmod>2019-12-25T14:00:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://environmentalist.vip/es/authors/vipenvironmentalist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://environmentalist.vip/authors/vipenvironmentalist/"
+                />
   </url>
   
   <url>
